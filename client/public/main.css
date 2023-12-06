@@ -1,0 +1,17 @@
+:root {
+    --nav-color:#687E8D;
+    --light-blue:#BAC7CD;
+    --beige-: #c2bca0;
+}
+
+* {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+   
+  
+}
+
+body {
+    background-color: #ebf2f5;
+}
